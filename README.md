@@ -1,2 +1,2 @@
-#### Generate a random Qoute
-#### live Demo https://ahmedbm98.github.io/Qoute/
+#### Generate a Random Quote
+#### [live Demo ](https://ahmedbm98.github.io/Qoute/)https://ahmedbm98.github.io/Qoute/
