@@ -1,0 +1,37 @@
+/* Start Global Rules */
+body {
+   font-family: "Lora", serif;
+   height: 100vh;
+   background-image: linear-gradient(#344955, #76ABAE);
+}
+
+/* End Global Rules */
+/* Start Section */
+.content-qoute {
+   background-image: linear-gradient(20deg, #EEEEEE, #40679E);
+}
+
+.content-qoute h1 {
+   color: #344955;
+}
+
+.content-qoute p {
+   color: #344955;
+}
+
+button {
+   position: absolute;
+   right: 10px;
+   bottom: -80px;
+   background-color: #335280;
+   color: #EEEEEE;
+   transition: all .4s ease;
+}
+
+button:hover {
+   box-shadow: 1px 1px 17px rgba(255, 255, 255, .5);
+   background-color: #344955;
+   color: #FFF0F5;
+}
+
+/* End Section */

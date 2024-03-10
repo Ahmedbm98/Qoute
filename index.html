@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Generate Quote</title>
+    <!-- Bootstrap Css File -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="./css/all.min.css" />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Main Css File -->
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <section class="h-100 d-flex justify-content-center align-items-center">
+      <div
+        class="content-qoute w-75 p-3 rounded-3 shadow text-capitalize position-relative"
+      >
+        <h1 class="fw-bold mb-4">qoute of the day</h1>
+        <p id="createQoute" class="text-center fw-semibold fs-4">
+          <i class="fa-solid fa-quote-left"></i>
+          Generate Qoute ...
+          <i class="fa-solid fa-quote-right"></i>
+        </p>
+        <span class="d-block text-end me-5 fw-bold fs-6 fst-italic"></span>
+        <button
+          onclick="GenerateQoutes()"
+          class="text-capitalize p-2 rounded border-0 fw-semibold"
+        >
+          get qoute
+        </button>
+      </div>
+    </section>
+
+    <!-- Bootstrap JS File -->
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <!-- Main Js File -->
+    <script src="./js/man.js"></script>
+  </body>
+</html>
