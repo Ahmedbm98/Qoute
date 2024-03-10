@@ -4,7 +4,8 @@ This web application allows users to explore and share impactful quotes
 The app features a clean and intuitive user interface with various functionalities, including reading quotes
 # Live Demo
  Experience the Tabs Project in action! Click the link below to access the live demo:
-#### [Live Demo ](https://ahmedbm98.github.io/Qoute/)
+#### [Live Demo ](https://ahmedbm98.github.io/Qoute-App/)
+
  The live demo provides a hands-on experience to see the Tabs Project in action
 
 ## Contact Me
